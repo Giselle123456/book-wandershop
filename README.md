@@ -48,7 +48,7 @@ See the section about [deployment](#deployment) for more information.
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code> Giselle and Melrose </code>
 </h3>
   https://github.com/Giselle123456https://github.com/Giselle123456">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
