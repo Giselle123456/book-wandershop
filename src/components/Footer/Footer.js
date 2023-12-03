@@ -38,7 +38,7 @@ const Footer = () => {
               <strong>Contact</strong>
             </h6>
             <p>
-              <i className="fa fa-envelope mr-3" /> &nbsp;jalanakshat2@gmail.com
+              <i className="fa fa-envelope mr-3" /> esparragogiselle0@gmail.com
             </p>
             <p>
               <a
@@ -64,7 +64,7 @@ const Footer = () => {
                 <li className="list-inline-item">
                   <a
                     className="btn-floating btn-sm rgba-white-slight mx-1"
-                    href="http://github.com/Akshatjalan"
+                    href="https://github.com/Giselle123456"
                   >
                     <i className="fab fa-github" />
                   </a>
@@ -80,7 +80,7 @@ const Footer = () => {
                 <li className="list-inline-item">
                   <a
                     className="btn-floating btn-sm rgba-white-slight mx-1"
-                    href="https://www.instagram.com/akshatxjalan/"
+                    href="https://instagram.com/giselle.esparrago?igshid=OGQ5ZDc2ODk2ZA=="
                   >
                     <i className="fab fa-instagram" />
                   </a>
